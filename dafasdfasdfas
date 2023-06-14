@@ -1,0 +1,41 @@
+[33mcommit 03abe43dd1f5e2be0856c41f74bb3033fec2931c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 17:08:17 2023 +0900
+
+    [UPDATE] Jenkinsfile
+
+[33mcommit bb5e842453fbc3582e57c660f99bb1d365dd4148[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 17:03:33 2023 +0900
+
+    [ADD] Jenkinsfile
+
+[33mcommit ee07ba5d29b0b5dcf77d3b7545bfef97f53bb762[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 16:33:42 2023 +0900
+
+    [UPDATE] README.md 수정
+
+[33mcommit e4aef1c712b981b1b89d62c5c1b399fd50e01f60[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 15:44:08 2023 +0900
+
+    [UPDATE] slack_연동
+
+[33mcommit 3aa009564c82b93a26d649d93a89827c59a059c4[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 14:40:27 2023 +0900
+
+    [ADD] Loadtest Script
+
+[33mcommit 78d2fb28a6deeb5cfa5afe2cfd2c000e0bed36f2[m
+Author: devops <devops@jadecross.com>
+Date:   Thu Jun 8 14:06:07 2023 +0900
+
+    [UPDATE] 메인화면변경
+
+[33mcommit 76b03426865b76ead69076997f7336d41376cdfb[m
+Author: devops <devops@jadecross.com>
+Date:   Wed Jun 7 22:05:19 2023 +0900
+
+    [INITIAL] 프로젝트 최초 등록(2023.05.01)
